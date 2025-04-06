@@ -8,7 +8,7 @@
 
 ### Решение 1
 
-[https://www.hackerrank.com/challenges/py-if-else/problem](https://www.hackerrank.com/challenges/py-if-else/problem)
+[https://www.hackerrank.com/profile/slavazakariev](https://www.hackerrank.com/profile/slavazakariev)
 
 ---
 
