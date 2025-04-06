@@ -54,7 +54,7 @@
 
 ### Решение 2
 
-[https://replit.com/@slavazakariev/task-01?v=1ъ](https://replit.com/@slavazakariev/task-01?v=1)
+[https://replit.com/@slavazakariev/task-01?v=1ъ](https://replit.com/@slavazakariev/netology#task-01-02.py)
 
 ---
 
@@ -86,7 +86,7 @@
 
 ### Решение 3
 
-[https://replit.com/@slavazakariev/task-01?v=1ъ](https://replit.com/@slavazakariev/task-01?v=1)
+[https://replit.com/@slavazakariev/task-01?v=1ъ](https://replit.com/@slavazakariev/netology#task-01-03.py)
 
 ---
 Инструкция по выполнению домашнего задания:
